@@ -40,8 +40,8 @@
     "lru-cache": "^4.0.1",
     "mongoose": "5.1.7",
     "morgan": "^1.7.0",
-    "@ravendevkit/ravencore-lib": "^1.0.4",
-    "ravencore-message": "RavenDevKit/ravencore-message",
+    "ravencore-lib": "blondfrogs/ravencore-lib",
+    "ravencore-message": "blondfrogs/ravencore-message",
     "request": "^2.83.0"
   },
   "peerDependencies": {},
